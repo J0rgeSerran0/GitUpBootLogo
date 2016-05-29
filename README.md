@@ -32,6 +32,11 @@
 * These are the official steps to change the default boot logo on a Git2 with the v1.5 beta firmware installed.
 <a><img src="0004.png?raw=true"></a>
 
+### Bonus
+* The original logo (to do rollback in the process) can be found here:
+
+<a><img src="Original logo/logo.jpg?raw=true"></a>
+
 **ALL DONE!**
 
 [Git2_Pro_Packing]: <http://www.gitup.com/en/home/12-gitup-git2-pro-action-camera.html>
