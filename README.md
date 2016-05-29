@@ -26,6 +26,7 @@
 * The Boot Logo will be saved in the default path (the path where the App is being executing).
 > If you want to change the path, click on the **Select Path** button.
 * The Boot Logo will be created now!
+
 <a><img src="0003.png?raw=true"></a>
 
 ### Install the logo on the Git2 sport camera
