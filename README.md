@@ -1,6 +1,6 @@
 # GitUp Boot Logo
 
-> <a href="GitUpBootLogo.zip">GitUpBootLogo.zip - 26 Kb</a>
+> <a href="GitUpBootLogo.zip?raw=true">GitUpBootLogo.zip - 26 Kb</a>
 
 ### Description
 * This tool generates a boot logo for the Git sport camera.
