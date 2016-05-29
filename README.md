@@ -1,5 +1,7 @@
 # GitUp Boot Logo
 
+> <a href="GitUpBootLogo.zip?raw=true">GitUpBootLogo.zip - 26 Kb</a>
+
 ### Description
 * This tool generates a boot logo for the Git sport camera.
 * ***(At the moment, the boot logo feature is enabled in the v1.5 beta firmware only)***
